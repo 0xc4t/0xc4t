@@ -7,5 +7,6 @@
 ## GitHub Stats
 ![0xc4t's Stats](https://github-readme-stats.vercel.app/api?username=0xc4t&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-## Most languages
+## Most Languages
 ![0xc4t's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xc4t&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
