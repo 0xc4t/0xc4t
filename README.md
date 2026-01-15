@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm 0xc4t</h1>
-<h3 align="center">Penetration Tester | Red Team | HackTheBox Player</h3>
+<h1>Hi 👋, I'm 0xc4t</h1>
+<h3>Penetration Tester | Red Team | Hack The Box Player</h3>
 
-## HackTheBox Stats
-![0xc4T](https://www.hackthebox.com/badge/image/1609548)
+0x13 years old Penetration Tester | Maldev Addict | Do RE & Red Team stuff | eWPTX, eCCPT, CRTA, eJPT | Currently pursuing CRTO and CRTP
 
-## GitHub Stats
-![0xc4t's Stats](https://github-readme-stats.vercel.app/api?username=0xc4t&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+## 🧠 Hack The Box Stats
+<img src="https://www.hackthebox.com/badge/image/1609548" alt="0xc4t HTB Badge" />
 
-## Most Languages
-![0xc4t's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xc4t&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+## 📊 GitHub Stats
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xc4t&show_icons=true&theme=tokyonight" alt="0xc4t GitHub Stats" />
 
